@@ -1,3 +1,5 @@
+Forked from [freeipa/freeipa](https://github.com/freeipa/freeipa-letsencrypt) and adjusted for CentOS.
+
 These two scripts try to automatically obtain and install Let's Encrypt certs
 to FreeIPA web interface.
 
